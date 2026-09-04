@@ -1,0 +1,7 @@
+{
+  "name": "IP-SAKTI Sahayak",
+  "description": "Multilingual, RAG-based, source-cited AI assistant for Intellectual Property & regulatory guidance in Ayurveda across national and international regimes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
